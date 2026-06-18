@@ -23,5 +23,5 @@ The manuscript now consistently reports:
 
 **696** generations
 **45 minutes** search time
-**94.36%** CIFAR-10 test accuracy
+**94.36%** CIFAR-10 test accuracy (currently still below 99.9% of cloud based AI but sufficient enough)
 
