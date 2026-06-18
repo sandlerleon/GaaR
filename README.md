@@ -17,15 +17,11 @@ The framework supports AMD GPUs through DirectML, Apple Silicon through Metal Pe
 
 In a 696-generation CIFAR-10 search conducted on a single AMD Radeon RX 5700 GPU, the system discovered a champion architecture achieving 94.36% test accuracy after full training. The archive includes source code, trained weights, experiment logs, and supporting documentation to facilitate reproducibility and further research into local AI and privacy-preserving AutoML.
 
-## Features
-Neural Architecture Search
-AutoML
-Evolutionary Computation
-CIFAR-10
-DirectML
-Apple Silicon
-Privacy-Preserving AI
-Local AI
-GaaR
-Bio-Inspired Optimization
+## Accuracy Claim as targeted towards Apple's silicon M5 AI chips present in Mac Mini and MacBook 
+
+The manuscript now consistently reports:
+
+**696** generations
+**45 minutes** search time
+**94.36%** CIFAR-10 test accuracy
 
