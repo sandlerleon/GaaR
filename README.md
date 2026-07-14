@@ -181,6 +181,14 @@ Archive includes:
 
 ---
 
+## Related projects
+
+- [**GaaR-Studio**](https://github.com/sandlerleon/GaaR-Studio) — GaaR applied to a live production pipeline, in two modes: per-release knob evolution (each published episode = one generation, fitness from real analytics) and **GaarQA**, a quality-control gate that treats every generated artifact as an individual, scores it against a written canon/spec with a weighted judge, regenerates failures with targeted mutations, and escalates after repeated failure. The QA mode is the auditor lineage of GaaR pointed at your own outputs.
+- [**GaaRTransformer**](https://github.com/sandlerleon/GaaRTransformer) — evolutionary NAS over small Transformers on consumer GPUs (including older AMD cards via PyTorch-DirectML), with `GaaR_core` as the search engine.
+- [**MyUncle**](https://github.com/sandlerleon/MyUncle) — maintenance-lattice simulation framework whose 6,000-point parameter grid is one of GaaR's benchmark landscapes ([10.5281/zenodo.21223570](https://doi.org/10.5281/zenodo.21223570)); [**MyUncle-oncology**](https://github.com/sandlerleon/MyUncle-oncology) hosts the adversarial robustness-audit use of GaaR.
+
+---
+
 ## Citation
 
 If you use this work please cite:
