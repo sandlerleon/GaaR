@@ -207,13 +207,6 @@ If you use this work please cite:
 
 ---
 
-## arXiv Submission
-
-This work is pending arXiv submission in **cs.NE** (Neural and Evolutionary Computing)
-and **cs.CV** (Computer Vision and Pattern Recognition).
-
-If you are an established arXiv author in either category and find this work
-interesting, I would be grateful for an endorsement:
 
 **https://arxiv.org/auth/endorse?x=H9WTH6**
 
