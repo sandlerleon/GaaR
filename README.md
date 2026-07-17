@@ -205,9 +205,3 @@ If you use this work please cite:
 }
 ```
 
----
-
-
-**https://arxiv.org/auth/endorse?x=H9WTH6**
-
-— Leon Sandler
